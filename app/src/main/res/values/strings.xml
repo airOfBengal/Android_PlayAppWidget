@@ -1,3 +1,9 @@
 <resources>
     <string name="app_name">PlayAppWidget</string>
+    <string name="title_dialog">Silencer</string>
+    <string-array name="time_units">
+        <item>Min.</item>
+        <item>Hour</item>
+        <item>Sec.</item>
+    </string-array>
 </resources>
